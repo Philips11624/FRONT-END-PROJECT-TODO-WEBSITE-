@@ -1,9 +1,9 @@
 function toAllTask() {
-  window.location.href = 'http://127.0.0.1:5500/index.html'
+  window.location.href = 'https://philips11624.github.io/FRONT-END-PROJECT-TODO-WEBSITE-/'
 }
 function toOngoingTask() {
-  window.location.href = 'http://127.0.0.1:5500/ongoing.html'
+  window.location.href = 'https://philips11624.github.io/FRONT-END-PROJECT-TODO-WEBSITE-/ongoing.html'
 }
 function toCompletedTask() {
-  window.location.href = 'http://127.0.0.1:5500/completed.html'
+  window.location.href = 'https://philips11624.github.io/FRONT-END-PROJECT-TODO-WEBSITE-/completed.html'
 }
